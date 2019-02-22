@@ -28,7 +28,7 @@
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-whitelist" />
     <plugin name="cordova-plugin-wkwebview-engine" />
-    <plugin name="cordova-permission-microphone" />
+    <plugin name="https://github.com/teguholix/Cordova-Permission-Microphone" />
     <engine name="ios" />
     <plugin name="cordova-plugin-crosswalk-webview" spec="^2.4.0" />
     <plugin name="cordova-android-support-gradle-release" spec="^2.0.1">
