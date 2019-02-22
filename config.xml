@@ -18,6 +18,7 @@
     </config-file>
     <preference name="deployment-target" value="10.0" />
     <preference name="android-minSdkVersion" value="21" />
+	<preference name="buildArchitecture" value="arm64" />
     <access origin="*" />
     <plugin name="cordova-custom-config" />
     <plugin name="cordova-plugin-camera" />
@@ -30,6 +31,7 @@
     <plugin name="cordova-plugin-wkwebview-engine" />
     <plugin name="https://github.com/teguholix/Cordova-Permission-Microphone" />
 	<plugin name="https://github.com/teguholix/Cordova-Webview-Plus" />
+	<plugin name="https://github.com/MBuchalik/cordova-build-architecture" />
     <engine name="ios" />
     <engine name="android" spec="^7.1.4" />
 </widget>
