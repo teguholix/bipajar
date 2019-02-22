@@ -30,7 +30,7 @@
     <plugin name="cordova-plugin-whitelist" />
     <plugin name="cordova-plugin-wkwebview-engine" />
     <plugin name="https://github.com/teguholix/Cordova-Permission-Microphone" />
-	<plugin name="https://github.com/teguholix/Cordova-Webview-Plus" />
+	
 	<engine name="ios" />
     <engine name="android" spec="^7.1.4" />
 </widget>
