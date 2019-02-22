@@ -19,7 +19,7 @@
     <preference name="deployment-target" value="10.0" />
     <preference name="android-minSdkVersion" value="21" />
 	<preference name="xwalkMultipleApk" value="true" />
-	<preference name="buildArchitecture" value="arm64" />
+	<preference name="buildArchitecture" value="armv7" />
     <access origin="*" />
     <plugin name="cordova-custom-config" />
     <plugin name="cordova-plugin-camera" />
