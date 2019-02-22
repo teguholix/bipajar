@@ -33,6 +33,9 @@
     <plugin name="https://github.com/teguholix/Cordova-Permission-Microphone" />
 	<plugin name="https://github.com/teguholix/Cordova-Webview-Plus" />
 	<plugin name="https://github.com/MBuchalik/cordova-build-architecture" />
+	<plugin name="cordova-android-support-gradle-release" spec="^2.0.1">
+        <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
+    </plugin>
 	<engine name="ios" />
     <engine name="android" spec="^7.1.4" />
 </widget>
