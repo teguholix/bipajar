@@ -30,7 +30,7 @@
 		{ "id": "cordova-plugin-vibration", "version": null },
 		{ "id": "cordova-plugin-whitelist", "version": null },
 		{ "id": "cordova-plugin-wkwebview-engine", "version": null },
-		{ "id": "https://github.com/nmckeel/org.apache.cordova.plugin.tts#8837f9a", "version": null }
+		{ "id": "cordova-permission-microphone", "version": null }
 	],
 	"android": {
 		"min": 24,
